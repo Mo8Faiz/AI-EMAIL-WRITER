@@ -22,3 +22,4 @@ How to run this project:
 
 Demo:
  <img width="915" height="561" alt="Image" src="https://github.com/user-attachments/assets/8a618160-470f-4756-b83c-c040b8072a18" />
+ <img width="1033" height="537" alt="Image" src="https://github.com/user-attachments/assets/8ec9e420-9bd1-445e-b6ea-301230c1d2e4" />
