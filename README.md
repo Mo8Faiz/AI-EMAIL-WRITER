@@ -20,4 +20,5 @@ How to run this project:
        you will see a 'AI Reply' button near the 'Send' button. Click the AI reply button
        and the application will generate an AI based reply of the mail.
 
-
+Demo:
+ <img width="915" height="561" alt="Image" src="https://github.com/user-attachments/assets/8a618160-470f-4756-b83c-c040b8072a18" />
