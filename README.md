@@ -19,25 +19,35 @@ This project combines the power of:
 ---
 
 ##  🧰 Tech Stack Used
-
+```
+| Area | Technology |
+|------|-------------|
+| **Frontend** | React + Vite ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) |
+| **Backend** | Spring Boot (Java) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) |
+| **Extension** | Chrome Extension (Manifest V3) ![Chrome](https://img.shields.io/badge/Chrome_Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white) |
+| **AI Integration** | Gemini API ![Gemini](https://img.shields.io/badge/Gemini_AI-8E75FF?style=for-the-badge&logo=google&logoColor=white) |
+| **Build Tools** | Maven & Node.js ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) |
+| **Version Control** | Git + GitHub ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github) |
+```
+---
 
 ## ⚙️ Project Structure
 
 ```AI-EMAIL-WRITER/
-├── email-writer-ext/ # 🧩 Chrome Extension Files
-│ ├── content.css # Styles for injected UI in Gmail
-│ ├── content.js # Injects AI Reply button logic
-│ └── manifest.json # Chrome Extension Manifest (v3)
+├── email-writer-ext/ 
+│ ├── content.css 
+│ ├── content.js 
+│ └── manifest.json 
 
-├── email-writer-react/ # ⚛️ React Frontend
-│ ├── public/ # Public assets and index.html
-│ ├── src/ # React source code
-│ │ ├── assets/ # Icons, logos, and static assets
+├── email-writer-react/ 
+│ ├── public/ 
+│ ├── src/ 
+│ │ ├── assets/ 
 │ │ │ └── react.svg
-│ │ ├── App.css # Main styling
-│ │ ├── App.jsx # Root component
-│ │ ├── index.css # Global CSS
-│ │ └── main.jsx # Entry point for React
+│ │ ├── App.css
+│ │ ├── App.jsx 
+│ │ ├── index.css 
+│ │ └── main.jsx 
 │ ├── .gitignore
 │ ├── eslint.config.js
 │ ├── index.html
@@ -46,20 +56,19 @@ This project combines the power of:
 │ ├── vite.config.js
 │ └── README.md
 
-├── email-writer-sb/ # ☕ Spring Boot Backend
-│ ├── .mvn/ # Maven wrapper files
+├── email-writer-sb/ 
+│ ├── .mvn/ 
 │ ├── src/
 │ │ ├── main/
 │ │ │ ├── java/com/email/email_writer_sb/app/
-│ │ │ │ └── EmailWriterSbApplication.java # Main Spring Boot app
-│ │ │ └── resources/ # application.properties, templates, etc.
-│ │ └── test/ # Optional: JUnit test files
+│ │ │ │ └── EmailWriterSbApplication.java 
+│ │ │ └── resources/
+│ │ └── test/ 
 │ ├── .gitignore
 │ ├── .gitattributes
 │ ├── mvnw
 │ ├── mvnw.cmd
-│ └── pom.xml # Maven configuration
-
+│ └── pom.xml 
 └── README.md # Project documentation
 ```
 ---
@@ -102,11 +111,11 @@ npm run dev
 
 ##  Demo 🎥
 
-# AI Reply Button Inside Gmail 📸
+# 📸 AI Reply Button Inside Gmail
 
    <img width="915" height="561" alt="Image" src="https://github.com/user-attachments/assets/8a618160-470f-4756-b83c-c040b8072a18" />
 
-# Generated Gemini Reply 🧠
+# 🧠 Generated Gemini Reply 
 
    <img width="1033" height="537" alt="Image" src="https://github.com/user-attachments/assets/8ec9e420-9bd1-445e-b6ea-301230c1d2e4" />
 
