@@ -95,7 +95,7 @@ npm run dev
  ```
   http://localhost:5173/
  ```
-**🧩 Step 3: Load the Chrome Extension
+**🧩 Step 3: Load the Chrome Extension**
  1. Open Chrome and go to:
  ```
  chrome://extensions/ 
@@ -104,7 +104,7 @@ npm run dev
  3. Click “Load unpacked” and select the folder you put the whole application in.
  4. The extension will now appear in your Chrome toolbar.
 
-**💬 Step 4: Use in Gmail
+**💬 Step 4: Use in Gmail**
   1. Go to Gmail.
   2. Open any email and click Reply.
   3. You’ll now see an AI Reply button next to Send.
@@ -116,10 +116,10 @@ npm run dev
 
 # 📸 AI Reply Button Inside Gmail
 
-   <img width="915" height="561" alt="Image" src="https://github.com/user-attachments/assets/8a618160-470f-4756-b83c-c040b8072a18" />
+   <img width="600" height="300" alt="Image" src="https://github.com/user-attachments/assets/8a618160-470f-4756-b83c-c040b8072a18" />
 
 # 🧠 Generated Gemini Reply 
 
-   <img width="1033" height="537" alt="Image" src="https://github.com/user-attachments/assets/8ec9e420-9bd1-445e-b6ea-301230c1d2e4" />
+   <img width="600" height="300" alt="Image" src="https://github.com/user-attachments/assets/8ec9e420-9bd1-445e-b6ea-301230c1d2e4" />
 
 
