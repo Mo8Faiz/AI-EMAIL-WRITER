@@ -20,6 +20,8 @@ This project combines the power of:
 
 ##  🧰 Tech Stack Used
 ```
+## 🧰 Tech Stack
+
 | Area | Technology |
 |------|-------------|
 | **Frontend** | React + Vite ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) |
@@ -27,7 +29,8 @@ This project combines the power of:
 | **Extension** | Chrome Extension (Manifest V3) ![Chrome](https://img.shields.io/badge/Chrome_Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white) |
 | **AI Integration** | Gemini API ![Gemini](https://img.shields.io/badge/Gemini_AI-8E75FF?style=for-the-badge&logo=google&logoColor=white) |
 | **Build Tools** | Maven & Node.js ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) |
-| **Version Control** | Git + GitHub ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github) |
+| **Version Control** | Git + GitHub ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
+
 ```
 ---
 
