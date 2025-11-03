@@ -71,7 +71,8 @@ This project combines the power of:
 │ ├── .gitattributes
 │ ├── mvnw
 │ ├── mvnw.cmd
-│ └── pom.xml 
+│ └── pom.xml
+├── LICENSE.txt
 └── README.md # Project documentation
 ```
 ---
