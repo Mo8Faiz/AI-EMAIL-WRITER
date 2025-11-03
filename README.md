@@ -114,12 +114,31 @@ npm run dev
 
 ##  Demo 🎥
 
-# 📸 AI Reply Button Inside Gmail
+ **📸 AI Reply Button Inside Gmail**
 
    <img width="600" height="300" alt="Image" src="https://github.com/user-attachments/assets/8a618160-470f-4756-b83c-c040b8072a18" />
 
-# 🧠 Generated Gemini Reply 
+ **🧠 Generated Gemini Reply**
 
    <img width="600" height="300" alt="Image" src="https://github.com/user-attachments/assets/8ec9e420-9bd1-445e-b6ea-301230c1d2e4" />
+
+---
+*Save your time and write contextual replies with the help of this extension*
+---
+
+# Author
+
+**MD FAIZ**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ffaaiizz/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thefaiz202@gmail.com)
+
+---
+
+# License
+See the  [LICENSE](LICENSE.txt)
+
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 
 
